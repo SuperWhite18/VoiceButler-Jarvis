@@ -1,0 +1,8 @@
+打开防火墙: systemctl start firewalld
+关闭防护墙: system stop firewalld
+跑一下火车: sl
+把文件列出来: ls -al
+查看邮件: ./bin/mybin
+联网情况: ping -c3 www.baidu.com
+网络详情: ifconfig
+退出: quit
