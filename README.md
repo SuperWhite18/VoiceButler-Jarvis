@@ -1,6 +1,1 @@
-# Project-On-Windows&Linux
-About Some Projects On Windows&amp;Linux
-
-# jsoncpp库（序列化反序列化）
-# libcurl库
-# aip-cpp-sdk 百度语音识别和语音合成
+基于Linux平台下开发的语音助手Jarvis，依赖图灵机器人和百度语音合成、识别等第三方库的使用
